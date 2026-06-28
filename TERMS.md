@@ -75,10 +75,10 @@ acceptance. Material changes will be reflected by a new effective date.
 
 ## 11. Governing law
 
-These Terms are governed by the laws of [jurisdiction], without regard to
+These Terms are governed by the laws of the State of California, United States, without regard to
 conflict-of-laws rules.
 
 ## 12. Contact
 
-GENOMA Labs — [legal@genoma-labs.com]
-[Company legal address]
+GENOMA Labs — dev@genoma-labs.com
+GENOMA Labs, Glendale, California, United States
