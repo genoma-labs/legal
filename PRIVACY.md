@@ -73,5 +73,5 @@ date on this page.
 
 ## 10. Contact
 
-GENOMA Labs — [legal@genoma-labs.com]
-[Company legal address]
+GENOMA Labs — dev@genoma-labs.com
+GENOMA Labs, Glendale, California, United States
